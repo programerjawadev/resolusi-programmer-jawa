@@ -1,4 +1,4 @@
 programmerjawa resolusi
 -konsisten membuat konten 2 kali seminggu
 -membuat platform untuk pengelolaan vidio
--membuat content python
+-membuat content javascript
