@@ -1,4 +1,5 @@
 programmerjawa resolusi
 -konsisten membuat konten 2 kali seminggu
 -membuat platform untuk pengelolaan vidio
--membuat content javascript
+-membuat content javascript\
+membuat framwork laravel
